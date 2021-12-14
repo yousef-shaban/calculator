@@ -129,8 +129,3 @@ equalButton.addEventListener('click', (e)=>{
     calculator.compile();
     calculator.updatedisplay();
 })
-
-test123
-
-123
-test new
