@@ -130,4 +130,4 @@ equalButton.addEventListener('click', (e)=>{
     calculator.updatedisplay();
 })
 
-test1
+test12
